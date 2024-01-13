@@ -19,3 +19,5 @@ Youtube Music
 Məqsəd: İstifadəçilərə geniş çeşiddə musiqi və video məzmunu ilə əyləncəli təcrübə təqdim etmək (ödənişsiz şəkildə)
 Ölçək: Qlobal musiqi və video platforması.
 İstifadə olunan strukturlar: Video axını, istifadəçi profilləri, çalğı siyahıları, musiqi videoları.
+
+Ümumi plan: Musiqi platforması kateqoriyası hansı ki müxtəlif janrda mahnı və musiqiləri təqdim edəcək. Müstəqil sənətçilərin musiqilərini paylaşması və yeni sənətçilərə dəstək üçün canlı performanslarını paylaşma xüsusiyyətini əlavə etməyi düşünürəm. 
