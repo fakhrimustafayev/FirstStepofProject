@@ -59,7 +59,7 @@ Layihə, istifadəçilərə müxtəlif musiqi janrlarını təqdim edəcək və 
 Bir neçə mövcud musiqi platformasını təhlil edərək, onların nələrə nail olduğunu və hansı əlaqəli xüsusiyyətləri təklif etdiklərini təhlil etməyi düşünürəm.
 
 -------------------------------------------------------------
-# Blog və ya Məzmun İdarəetmə Sistemi üçün 3 Referans Layihə Analizi və Dokumentasiyası
+# E-Commerce Platforması üçün 3 Referans Layihə Analizi və Dokumentasiyası
 
 ## Irshad
 [Irshad](https://blog.medium.com/)  geniş çeşiddə elektron məhsulların onlayn satışını təmin edən e-ticarət platformasıdır.
