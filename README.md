@@ -17,7 +17,7 @@
 - **İstifadə edilən strukturlar:** Tvitlər, izləmə, izləyicilərin qazanılması, trendlər kimi əsas funksiyaları ehtiva edir.
 
 ## Instagram
-[Instagram](https://www.instagram.com/),Instagram, şəkillər və videolar vasitəsilə paylaşım əsasında fokuslanan bir sosial şəbəkə platformasıdır. Həm də həyat tərzi və şəxsi məzmun paylaşmağı üçün idealdir.
+[Instagram](https://www.instagram.com/), şəkillər və videolar vasitəsilə paylaşım əsasında fokuslanan bir sosial şəbəkə platformasıdır. Həm də həyat tərzi və şəxsi məzmun paylaşmağı üçün idealdir.
 - **Əhatə dairəsi:** Vizual məzmun mübadiləsinə yönəlmiş sosial şəbəkə. İstifadəçilər öz foto və videolarını paylaşa, bəyənə və şərh edə bilərlər.
 - **Məqsədi:** İstifadəçilərə vizual məzmun vasitəsilə digər istifadəçiləri ifadə etmək və onlarla qarşılıqlı əlaqədə olmaq imkanı yaratmaq.
 - **Miqyas:** Bu, milyardlarla istifadəçiyə xidmət göstərən qlobal platformadır.
